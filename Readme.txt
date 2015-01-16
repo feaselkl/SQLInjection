@@ -1,5 +1,5 @@
 SQL Injection Workbench
-A code sample for Tribal SQL
+A code sample for Tribal SQL (http://tribalsql.com/)
 
 Author:		Kevin Feasel
 Contact:	feaselkl@gmail.com
